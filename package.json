@@ -12,7 +12,8 @@
     "typescript": "^4.1.5"
   },
   "scripts": {
-    "publish-package": "tsc && npm version patch && npm publish ----access public",
+    "prepare": "tsc",
+    "publish-package": "npm version patch && npm publish ----access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
