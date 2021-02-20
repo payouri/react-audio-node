@@ -4,10 +4,11 @@
   "description": "React wrapper for the HTML5 <audio/> tag",
   "main": "index.js",
   "peerDependencies": {
-    "react": "^17.0.2"
+    "react": "^17.0.1"
   },
   "devDependencies": {
-    "@types/react": "^17.0.2",
+    "react": "^17.0.1",
+    "@types/react": "^17.0.1",
     "typescript": "^4.1.5"
   },
   "scripts": {
