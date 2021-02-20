@@ -14,6 +14,10 @@
     "publish-package": "tsc && npm version patch && npm publish ----access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/payouri/react-audio-node.git"
+  },
   "keywords": [
     "react",
     "HTML5",
