@@ -1,6 +1,6 @@
 {
   "name": "@youri-kane/react-audio-node",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React wrapper for the HTML5 <audio/> tag",
   "main": "index.js",
   "peerDependencies": {
